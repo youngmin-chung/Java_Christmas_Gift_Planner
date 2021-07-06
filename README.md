@@ -1,9 +1,9 @@
 ```
 +-------------------------------------------------------------------------------------------+
-|                           Welcome to the Holiday Gift Planner!                            |
+|                           Welcome to the Christmas Gift Planner!                            |
 +-------------------------------------------------------------------------------------------+
 
-This program will help you plan and control your expenses for any holiday gift purchases.
+This program will help you plan and control your expenses for any Christmas gift purchases.
 Just follow the easy step-by-step instructions on your screen!
 
 STEP 1: First you'll need to provide some basic information.
