@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /**
  * Program Name: Youngmin_Chung_INFO1214_Project
- * Purpose: Holiday Gift Planner 		
+ * Purpose: Christmas Gift Planner 		
  * Coder: Youngmin Chung for Sec01
  * Date: Dec 28, 2017
  *
@@ -39,7 +39,7 @@ public class Main
     {
         // TITLE
         System.out.println("+-------------------------------------------------------------------------------------------+");
-        System.out.println("|"+"			  	Welcome to the Holiday Gift Planner		 	  "+"  |");
+        System.out.println("|"+"			  	Welcome to the Christmas Gift Planner		 	  "+"  |");
         System.out.println("+-------------------------------------------------------------------------------------------+\n");
 
         // PURPOSE OF THE PROGRAM
